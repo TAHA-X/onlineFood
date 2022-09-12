@@ -1,0 +1,15 @@
+#container_contact{
+    width:100%; height:calc(100vh - 52px);
+    margin-top:70px;
+    
+}
+#container_contact img{
+    width:50%; height:100vh;
+}
+@media (max-width:800px) {
+    #img{
+        display:none !important;
+    }
+}
+
+

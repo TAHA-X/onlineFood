@@ -1,0 +1,21 @@
+#container_about{
+    width:100%; height:calc(100vh - (119.96px));
+    margin-top:140px;
+ 
+}
+#container_about h1 span{
+    color:rgb(254, 140, 52);
+}
+#btn_learn_more{
+    background-color:transparent; transition:all 0.4s;
+    border:none;
+    border-top:1.5px solid rgb(254, 140, 52);
+    border-bottom:1.5px solid rgb(254, 140, 52);
+    color:rgb(254, 140, 52);
+    padding:4px 30px;
+    margin-top:30px;
+}
+#btn_learn_more:hover{
+    background-color:rgb(254, 140, 52);
+    color:white;
+}
